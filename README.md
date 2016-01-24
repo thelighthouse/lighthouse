@@ -1,0 +1,2 @@
+# lighthouse
+flask control server
